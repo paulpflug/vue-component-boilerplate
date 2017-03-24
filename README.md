@@ -1,3 +1,5 @@
+# DEPRECATED see [cerijs](https://github.com/cerijs) and [ceri-boilerplate](https://github.com/cerijs/ceri-boilerplate)
+
 # vue-component-boilerplate
 
 > A full-featured component setup with hot-reload, lint-on-save & unit testing.
